@@ -26,7 +26,7 @@ To run a simulation:
 3. Follow the instructions within the notebook to execute the simulation steps.
 
 ## Project Structure
-Galaksim/
+Galaksim/ \
 ├── galaxy_sim1.ipynb \
 ├── galaxy_sim2.ipynb \
 ├── galaxy_sim3.ipynb \
