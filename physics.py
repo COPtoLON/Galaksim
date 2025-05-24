@@ -131,10 +131,6 @@ def update(frame):
             if _p != _p2:
                 _p.interaction(_p2)
     
-    
-
-    
-
 fig, ax = plt.subplots()
 ani = animation.FuncAnimation(fig=fig, func=update, frames=1000, interval=100)
 video = ani.to_html5_video()
