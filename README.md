@@ -27,12 +27,12 @@ To run a simulation:
 
 ## Project Structure
 Galaksim/
-├── galaxy_sim1.ipynb
-├── galaxy_sim2.ipynb
-├── galaxy_sim3.ipynb
-├── Phys.ipynb
-├── Physics.ipynb
-├── physics.py
+├── galaxy_sim1.ipynb \
+├── galaxy_sim2.ipynb \
+├── galaxy_sim3.ipynb \
+├── Phys.ipynb \
+├── Physics.ipynb \
+├── physics.py \
 └── README.md
 - physics.py: Contains core physics functions used across notebooks.
 - *.ipynb: Jupyter Notebooks demonstrating various simulations.
